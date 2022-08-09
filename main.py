@@ -19,7 +19,6 @@ Bot = Client(
 
 START_TEXT = """Hᴇʏ! {}
 
-START_TEXT = """Hᴇʏ! {}
 Hi, I am Request Bot🤖 For DaDa Encodes.
 Thank You!. For Using Me!!!"""
 
